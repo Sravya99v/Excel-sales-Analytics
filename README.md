@@ -11,13 +11,20 @@ Project Description
 ## Finance Report:
 1. Create Profit & Loss (P&L) reports by Fiscal Year & Months
 2. Create Profit and Loss (P&L) reports by Markets
-### Purpose of Sales analytics: 
-To evaluate financial performance, to support decision- making in organizations and communication with stakeholders
+### Purpose of Finance analytics: 
+To evaluate financial performance over a period of time, typically a month, quarter or year to support decision- making in organizations and communication with stakeholders
 ### Role of Reports:
 Financial Planning with strategic goals to build confidence in the organization's financial outlook
-## Skills gained:
-1. ETL(Extract, Transform, Load)
-2. Usage of PowerQuery
-3. Fiscal months and Quarters
-4. Establishing the realtionship in data model
-5. Utilizing DAX to create Calculated columns 
+## Technical & Soft Skills:
+- 	Proficiency in ETL methodology (Extract, Transform, Load).
+- 	Skills to generate a date table using Power Query.
+- 	Ability to derive fiscal months and quarters.
+- 	Establishing data model relationships with Power Pivot.
+- Proficiency in incorporating supplementary data into an existing data model.
+- 	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- 	Refined understanding of Sales & Finance Reports
+- 	Designing user-centric reports with empathy in mind.
+- 	Optimization of report generation through meticulous fine-tuning.
+- 	Developing a systematic approach to devising a report building plan.
